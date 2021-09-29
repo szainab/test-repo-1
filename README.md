@@ -17,7 +17,7 @@ The Tutorial is organized into **three sections**:
 
 
 ## Content
-The required repo files, used by the *Publishing* and *Manual basics* sections are:
+The required repo files, used by the *Publishing* and *Manual basics* sections areeee:
 
 ```bash
 root
